@@ -26,7 +26,7 @@ int main()
      printf("\n\t\t   BECOME RICH EARN UPTO 1 MILLION $ ;-) ");
      printf("\n\t\t****************************************");
      printf("\n\t\t > Press S to start the game");
-     printf("\n\t\t > Press V to view the highest score  ");
+     printf("\n\t\t > Press V to view your highest score  ");
      printf("\n\t\t > Press R to reset score");
      printf("\n\t\t > press H for help            ");
      printf("\n\t\t > press Q to quit             ");
